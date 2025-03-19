@@ -1,9 +1,4 @@
-// import { ArcGISIdentityManager } from "https://cdn.skypack.dev/@esri/arcgis-rest-request@4";
-// import {
-//   createFeatureService,
-//   addToServiceDefinition,
-// } from "https://cdn.skypack.dev/@esri/arcgis-rest-feature-service@4";
-import MapView from "@arcgis/core/views/MapView.js";
+// import MapView from "@arcgis/core/views/MapView.js";
 import Portal from "@arcgis/core/portal/Portal.js";
 import OAuthInfo from "@arcgis/core/identity/OAuthInfo.js";
 import esriId from "@arcgis/core/identity/IdentityManager.js";
